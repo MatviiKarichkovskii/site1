@@ -1,0 +1,67 @@
+body{
+    background-color: #F5DEB3;
+    font-family:COMIC SANS MS;
+}
+header img{
+    width: 60px;
+    height: 50px;
+}
+
+nav a{
+    border: 1px solid #8B4513;
+    border-radius:5px;
+    color: #F5DEB3;
+    background-color: #8B4513;
+}
+
+main p{
+    border: 1px solid #8B4513;
+    border-radius:5px;
+    color:#F5DEB3 ;
+    background-color: #8B4513;    
+}
+
+table{
+    border: 2px solid #8B4513;
+    color: #A0522D;
+    text-align: center;
+}
+tr{
+    border: 2px solid #8B4513;   
+}
+td{
+    border: 2px solid #8B4513;
+}
+h1{
+    color: #8B4513;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2, h3, h4, h5, h6{
+    color: #A0522D;
+    font-size: 20px;
+    text-align: center;
+}
+.b{
+    font-size:15px;
+}
+footer a{
+    color:#A0522D ;
+    text-decoration: none;
+}
+table img{
+    width: 50px;
+    height: 60px;
+}
+.c{
+    color: #A0522D;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+    background-color: #F5DEB3;
+}
+.q{
+    border-style: dashed;
+}
+
